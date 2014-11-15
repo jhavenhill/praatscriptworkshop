@@ -1,0 +1,14 @@
+\frametitle{Resources}
+
+\begin{itemize}
+    \item When in doubt, check the manual:
+    \begin{itemize}
+        \item \url{http://www.fon.hum.uva.nl/praat/manual/Scripting.html}
+        \item Also available under \menu{Help}
+    \end{itemize}
+
+    \item Some helpful guides are found in the ``resources'' folder
+
+    \item The Internet: many of the scripts you will want to write have already been written, you'll just have to adapt them to your needs
+
+\end{itemize}

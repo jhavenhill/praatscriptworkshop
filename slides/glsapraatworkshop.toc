@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {2}{Introduction}{4}{0}{1}
+\beamer@subsectionintoc {2}{1}{Tour of Praat}{6}{0}{1}
+\beamer@sectionintoc {3}{The Basics}{15}{0}{2}
+\beamer@subsectionintoc {3}{1}{Numeric variables}{21}{0}{2}
+\beamer@subsectionintoc {3}{2}{String variables}{26}{0}{2}
+\beamer@subsectionintoc {3}{3}{Conditionals}{34}{0}{2}
+\beamer@sectionintoc {4}{Loops}{44}{0}{3}
+\beamer@subsectionintoc {4}{1}{For Loops}{45}{0}{3}
+\beamer@subsectionintoc {4}{2}{Until Loops}{49}{0}{3}
+\beamer@subsectionintoc {4}{3}{While Loops}{51}{0}{3}
+\beamer@sectionintoc {5}{TextGrids}{56}{0}{4}
+\beamer@subsectionintoc {5}{1}{Structure}{56}{0}{4}
+\beamer@subsectionintoc {5}{2}{Creating}{59}{0}{4}
+\beamer@sectionintoc {6}{External Files}{64}{0}{5}
+\beamer@sectionintoc {7}{Resources}{68}{0}{6}

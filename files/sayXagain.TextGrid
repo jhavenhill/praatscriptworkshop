@@ -1,0 +1,524 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 79.79486052387188 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phrase" 
+        xmin = 0 
+        xmax = 79.79486052387188 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7365941687547206 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7365941687547206 
+            xmax = 2.2336095443531008 
+            text = "say feet again" 
+        intervals [3]:
+            xmin = 2.2336095443531008 
+            xmax = 4.591058605391538 
+            text = "" 
+        intervals [4]:
+            xmin = 4.591058605391538 
+            xmax = 6.162924749769843 
+            text = "say juice again" 
+        intervals [5]:
+            xmin = 6.162924749769843 
+            xmax = 8.128832014918942 
+            text = "" 
+        intervals [6]:
+            xmin = 8.128832014918942 
+            xmax = 9.807627828982845 
+            text = "say key again" 
+        intervals [7]:
+            xmin = 9.807627828982845 
+            xmax = 11.611208145153796 
+            text = "" 
+        intervals [8]:
+            xmin = 11.611208145153796 
+            xmax = 13.525249232525994 
+            text = "say stock again" 
+        intervals [9]:
+            xmin = 13.525249232525994 
+            xmax = 15.680331894641256 
+            text = "" 
+        intervals [10]:
+            xmin = 15.680331894641256 
+            xmax = 17.44467144445366 
+            text = "say cash again" 
+        intervals [11]:
+            xmin = 17.44467144445366 
+            xmax = 19.77720501791123 
+            text = "" 
+        intervals [12]:
+            xmin = 19.77720501791123 
+            xmax = 21.520158633786536 
+            text = "say food again" 
+        intervals [13]:
+            xmin = 21.520158633786536 
+            xmax = 23.926076201712476 
+            text = "" 
+        intervals [14]:
+            xmin = 23.926076201712476 
+            xmax = 25.583486081839283 
+            text = "say cap again" 
+        intervals [15]:
+            xmin = 25.583486081839283 
+            xmax = 27.755058528315374 
+            text = "" 
+        intervals [16]:
+            xmin = 27.755058528315374 
+            xmax = 29.444547309347854 
+            text = "say caught again" 
+        intervals [17]:
+            xmin = 29.444547309347854 
+            xmax = 31.95306450387875 
+            text = "" 
+        intervals [18]:
+            xmin = 31.95306450387875 
+            xmax = 33.84571965731385 
+            text = "say fact again" 
+        intervals [19]:
+            xmin = 33.84571965731385 
+            xmax = 36.11239478766464 
+            text = "" 
+        intervals [20]:
+            xmin = 36.11239478766464 
+            xmax = 37.76980466779145 
+            text = "say dog again" 
+        intervals [21]:
+            xmin = 37.76980466779145 
+            xmax = 39.92681951637792 
+            text = "" 
+        intervals [22]:
+            xmin = 39.92681951637792 
+            xmax = 41.81947466981302 
+            text = "say heed again" 
+        intervals [23]:
+            xmin = 41.81947466981302 
+            xmax = 44.243813176656204 
+            text = "" 
+        intervals [24]:
+            xmin = 44.243813176656204 
+            xmax = 45.89053008981443 
+            text = "say got again" 
+        intervals [25]:
+            xmin = 45.89053008981443 
+            xmax = 48.48242522461754 
+            text = "" 
+        intervals [26]:
+            xmin = 48.48242522461754 
+            xmax = 50.22537884049285 
+            text = "say tool again" 
+        intervals [27]:
+            xmin = 50.22537884049285 
+            xmax = 52.71684014416729 
+            text = "" 
+        intervals [28]:
+            xmin = 52.71684014416729 
+            xmax = 54.62018826457097 
+            text = "say sauce again" 
+        intervals [29]:
+            xmin = 54.62018826457097 
+            xmax = 57.03439991094126 
+            text = "" 
+        intervals [30]:
+            xmin = 57.03439991094126 
+            xmax = 58.959133965282035 
+            text = "say ad again" 
+        intervals [31]:
+            xmin = 58.959133965282035 
+            xmax = 61.47481354122317 
+            text = "" 
+        intervals [32]:
+            xmin = 61.47481354122317 
+            xmax = 63.28192495890977 
+            text = "say ought again" 
+        intervals [33]:
+            xmin = 63.28192495890977 
+            xmax = 65.37261750010197 
+            text = "" 
+        intervals [34]:
+            xmin = 65.37261750010197 
+            xmax = 67.24388671959997 
+            text = "say chop again" 
+        intervals [35]:
+            xmin = 67.24388671959997 
+            xmax = 69.41455901421762 
+            text = "" 
+        intervals [36]:
+            xmin = 69.41455901421762 
+            xmax = 71.20028449796712 
+            text = "say dock again" 
+        intervals [37]:
+            xmin = 71.20028449796712 
+            xmax = 73.84177788810376 
+            text = "" 
+        intervals [38]:
+            xmin = 73.84177788810376 
+            xmax = 75.21047763321269 
+            text = "say choose again" 
+        intervals [39]:
+            xmin = 75.21047763321269 
+            xmax = 77.4154945051439 
+            text = "" 
+        intervals [40]:
+            xmin = 77.4154945051439 
+            xmax = 78.9125098219713 
+            text = "say ease again" 
+        intervals [41]:
+            xmin = 78.9125098219713 
+            xmax = 79.79486052387188 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 79.79486052387188 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.187911282520588 
+            text = "" 
+        intervals [2]:
+            xmin = 1.187911282520588 
+            xmax = 1.6223622294903066 
+            text = "feet" 
+        intervals [3]:
+            xmin = 1.6223622294903066 
+            xmax = 5.048990939383373 
+            text = "" 
+        intervals [4]:
+            xmin = 5.048990939383373 
+            xmax = 5.545014691611527 
+            text = "juice" 
+        intervals [5]:
+            xmin = 5.545014691611527 
+            xmax = 8.583005890363722 
+            text = "" 
+        intervals [6]:
+            xmin = 8.583005890363722 
+            xmax = 9.045952726154042 
+            text = "key" 
+        intervals [7]:
+            xmin = 9.045952726154042 
+            xmax = 12.100251368727527 
+            text = "" 
+        intervals [8]:
+            xmin = 12.100251368727527 
+            xmax = 12.826606474828282 
+            text = "stock" 
+        intervals [9]:
+            xmin = 12.826606474828282 
+            xmax = 16.122532256831448 
+            text = "" 
+        intervals [10]:
+            xmin = 16.122532256831448 
+            xmax = 16.719385792324545 
+            text = "cash" 
+        intervals [11]:
+            xmin = 16.719385792324545 
+            xmax = 20.25993874464183 
+            text = "" 
+        intervals [12]:
+            xmin = 20.25993874464183 
+            xmax = 20.783480553353968 
+            text = "food" 
+        intervals [13]:
+            xmin = 20.783480553353968 
+            xmax = 24.381857463076187 
+            text = "" 
+        intervals [14]:
+            xmin = 24.381857463076187 
+            xmax = 24.867966220792255 
+            text = "cap" 
+        intervals [15]:
+            xmin = 24.867966220792255 
+            xmax = 28.190413365853942 
+            text = "" 
+        intervals [16]:
+            xmin = 28.190413365853942 
+            xmax = 28.729350865853974 
+            text = "caught" 
+        intervals [17]:
+            xmin = 28.729350865853974 
+            xmax = 32.42717571153298 
+            text = "" 
+        intervals [18]:
+            xmin = 32.42717571153298 
+            xmax = 32.94489383460393 
+            text = "fact" 
+        intervals [19]:
+            xmin = 32.94489383460393 
+            xmax = 36.522599005734946 
+            text = "" 
+        intervals [20]:
+            xmin = 36.522599005734946 
+            xmax = 37.04605730524793 
+            text = "dog" 
+        intervals [21]:
+            xmin = 37.04605730524793 
+            xmax = 40.462043574187305 
+            text = "" 
+        intervals [22]:
+            xmin = 40.462043574187305 
+            xmax = 40.9579798341079 
+            text = "heed" 
+        intervals [23]:
+            xmin = 40.9579798341079 
+            xmax = 44.68686692488171 
+            text = "" 
+        intervals [24]:
+            xmin = 44.68686692488171 
+            xmax = 45.12564356293797 
+            text = "got" 
+        intervals [25]:
+            xmin = 45.12564356293797 
+            xmax = 48.87541108274894 
+            text = "" 
+        intervals [26]:
+            xmin = 48.87541108274894 
+            xmax = 49.454722173870834 
+            text = "tool" 
+        intervals [27]:
+            xmin = 49.454722173870834 
+            xmax = 53.20662506928534 
+            text = "" 
+        intervals [28]:
+            xmin = 53.20662506928534 
+            xmax = 53.8506367454836 
+            text = "sauce" 
+        intervals [29]:
+            xmin = 53.8506367454836 
+            xmax = 57.55326331311136 
+            text = "" 
+        intervals [30]:
+            xmin = 57.55326331311136 
+            xmax = 58.17728107418725 
+            text = "ad" 
+        intervals [31]:
+            xmin = 58.17728107418725 
+            xmax = 61.98661512023995 
+            text = "" 
+        intervals [32]:
+            xmin = 61.98661512023995 
+            xmax = 62.571794615853946 
+            text = "ought" 
+        intervals [33]:
+            xmin = 62.571794615853946 
+            xmax = 65.95167443356229 
+            text = "" 
+        intervals [34]:
+            xmin = 65.95167443356229 
+            xmax = 66.59799409502068 
+            text = "chop" 
+        intervals [35]:
+            xmin = 66.59799409502068 
+            xmax = 69.87182161905906 
+            text = "" 
+        intervals [36]:
+            xmin = 69.87182161905906 
+            xmax = 70.40667521605172 
+            text = "dock" 
+        intervals [37]:
+            xmin = 70.40667521605172 
+            xmax = 74.21074863717178 
+            text = "" 
+        intervals [38]:
+            xmin = 74.21074863717178 
+            xmax = 74.63460549548358 
+            text = "choose" 
+        intervals [39]:
+            xmin = 74.63460549548358 
+            xmax = 77.827445817777 
+            text = "" 
+        intervals [40]:
+            xmin = 77.827445817777 
+            xmax = 78.30206226291278 
+            text = "ease" 
+        intervals [41]:
+            xmin = 78.30206226291278 
+            xmax = 79.79486052387188 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Vowel" 
+        xmin = 0 
+        xmax = 79.79486052387188 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3278664025309013 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3278664025309013 
+            xmax = 1.5014038683049762 
+            text = "i" 
+        intervals [3]:
+            xmin = 1.5014038683049762 
+            xmax = 5.1925956575206555 
+            text = "" 
+        intervals [4]:
+            xmin = 5.1925956575206555 
+            xmax = 5.392621373666486 
+            text = "u" 
+        intervals [5]:
+            xmin = 5.392621373666486 
+            xmax = 8.776834199187306 
+            text = "" 
+        intervals [6]:
+            xmin = 8.776834199187306 
+            xmax = 9.045952726154042 
+            text = "i" 
+        intervals [7]:
+            xmin = 9.045952726154042 
+            xmax = 12.349871027144275 
+            text = "" 
+        intervals [8]:
+            xmin = 12.349871027144275 
+            xmax = 12.55744440752062 
+            text = "\as" 
+        intervals [9]:
+            xmin = 12.55744440752062 
+            xmax = 16.288345865853955 
+            text = "" 
+        intervals [10]:
+            xmin = 16.288345865853955 
+            xmax = 16.542726584244804 
+            text = "\ae" 
+        intervals [11]:
+            xmin = 16.542726584244804 
+            xmax = 20.452523319557656 
+            text = "" 
+        intervals [12]:
+            xmin = 20.452523319557656 
+            xmax = 20.74415893322987 
+            text = "u" 
+        intervals [13]:
+            xmin = 20.74415893322987 
+            xmax = 24.53611525077457 
+            text = "" 
+        intervals [14]:
+            xmin = 24.53611525077457 
+            xmax = 24.759309762250325 
+            text = "\ae" 
+        intervals [15]:
+            xmin = 24.759309762250325 
+            xmax = 28.38253315752064 
+            text = "" 
+        intervals [16]:
+            xmin = 28.38253315752064 
+            xmax = 28.605661822644095 
+            text = "\ct" 
+        intervals [17]:
+            xmin = 28.605661822644095 
+            xmax = 32.60699620315552 
+            text = "" 
+        intervals [18]:
+            xmin = 32.60699620315552 
+            xmax = 32.863326777312295 
+            text = "\ae" 
+        intervals [19]:
+            xmin = 32.863326777312295 
+            xmax = 36.6375851871598 
+            text = "" 
+        intervals [20]:
+            xmin = 36.6375851871598 
+            xmax = 36.98587449769474 
+            text = "\ct" 
+        intervals [21]:
+            xmin = 36.98587449769474 
+            xmax = 40.583697333245254 
+            text = "" 
+        intervals [22]:
+            xmin = 40.583697333245254 
+            xmax = 40.91621358906826 
+            text = "i" 
+        intervals [23]:
+            xmin = 40.91621358906826 
+            xmax = 44.82914635196505 
+            text = "" 
+        intervals [24]:
+            xmin = 44.82914635196505 
+            xmax = 45.059161478037936 
+            text = "\as" 
+        intervals [25]:
+            xmin = 45.059161478037936 
+            xmax = 49.09789253252063 
+            text = "" 
+        intervals [26]:
+            xmin = 49.09789253252063 
+            xmax = 49.314034801141986 
+            text = "u" 
+        intervals [27]:
+            xmin = 49.314034801141986 
+            xmax = 53.38920800871114 
+            text = "" 
+        intervals [28]:
+            xmin = 53.38920800871114 
+            xmax = 53.64536782750588 
+            text = "\ct" 
+        intervals [29]:
+            xmin = 53.64536782750588 
+            xmax = 57.67595949680634 
+            text = "" 
+        intervals [30]:
+            xmin = 57.67595949680634 
+            xmax = 58.06758681546637 
+            text = "\ae" 
+        intervals [31]:
+            xmin = 58.06758681546637 
+            xmax = 62.13390711585396 
+            text = "" 
+        intervals [32]:
+            xmin = 62.13390711585396 
+            xmax = 62.38734883002337 
+            text = "\ct" 
+        intervals [33]:
+            xmin = 62.38734883002337 
+            xmax = 66.15383283700777 
+            text = "" 
+        intervals [34]:
+            xmin = 66.15383283700777 
+            xmax = 66.37500919918733 
+            text = "\as" 
+        intervals [35]:
+            xmin = 66.37500919918733 
+            xmax = 69.99746467758234 
+            text = "" 
+        intervals [36]:
+            xmin = 69.99746467758234 
+            xmax = 70.24000769455768 
+            text = "\as" 
+        intervals [37]:
+            xmin = 70.24000769455768 
+            xmax = 74.38258323764887 
+            text = "" 
+        intervals [38]:
+            xmin = 74.38258323764887 
+            xmax = 74.57948354129257 
+            text = "u" 
+        intervals [39]:
+            xmin = 74.57948354129257 
+            xmax = 77.95715356193239 
+            text = "" 
+        intervals [40]:
+            xmin = 77.95715356193239 
+            xmax = 78.2037022547429 
+            text = "i" 
+        intervals [41]:
+            xmin = 78.2037022547429 
+            xmax = 79.79486052387188 
+            text = "" 
+    item [4]:
+        class = "TextTier" 
+        name = "Msmt" 
+        xmin = 0 
+        xmax = 79.79486052387188 
+        points: size = 0 
